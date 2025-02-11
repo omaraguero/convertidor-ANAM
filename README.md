@@ -5,6 +5,7 @@ Este script convierte archivos .asc enviados por La Agencia Nacional de Aduanas 
 Para mas informacion sobre ANAM visite https://anam.gob.mx/solicitud-de-operaciones-de-comercio-exterior/
 
 Para convertir los archivos, hay que:
+
 1.- Colocar los archivos .asc en la raiz, junto al main.py
 
 2.- Ejecutar el archivo main.py
